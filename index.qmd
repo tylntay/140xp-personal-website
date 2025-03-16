@@ -4,7 +4,8 @@ about:
   template: solana
   image: LinkedIn_Photo.png
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/tyler-n-taylor/
     - icon: github
       text: Github
@@ -18,7 +19,7 @@ about:
 
 UCLA Football Student Manager & Data Analyst | Passionate About Leveraging Machine Learning to Optimize Sports Strategy & Performance
 
-### Download [My Resume](/Tyler Taylor - Winter 2025 Resume Edited.docx (2).pdf)
+### [My Resume](/Tyler Taylor - Winter 2025 Resume Edited.docx (2).pdf)
 
 ## Education
 

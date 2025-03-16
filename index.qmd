@@ -4,9 +4,12 @@ about:
   template: solana
   image: LinkedIn_Photo.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: email
+      text: Email
+      url: "mailto:tylntay@gmail.com"
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/tylrtaylr/
     - icon: github
       text: Github
       href: https://github.com/tylntay

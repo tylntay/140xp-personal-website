@@ -4,27 +4,28 @@ about:
   template: solana
   image: LinkedIn_Photo.png
   links:
-    - icon: email
-      text: Email
+    - text: Resume
+      href: Tyler Taylor - Winter 2025 Resume Edited.docx (2).pdf
+    - text: Email
       url: "mailto:tylntay@gmail.com"
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/tylrtaylr/
     - icon: github
       text: Github
       href: https://github.com/tylntay
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/tylrtaylr/
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+UCLA Football Student Manager & Data Analyst | Passionate About Leveraging Machine Learning to Optimize Sports Strategy & Performance
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
+University of California, Los Angeles | Los Angeles, CA |
 Bachelor of Science, Double Major: Mathematics of Computation,
 Statistics and Data Science | Expected December 2025
 
-Las Positas College | Livermore, CA
-Associate of Science, Computer Science (Pending),
+Las Positas College | Livermore, CA |
+Associate of Science, Computer Science (Pending);
 Associate of Science, Mathematics | August 2023
 
 ## Experience

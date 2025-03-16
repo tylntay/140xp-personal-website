@@ -1,5 +1,8 @@
 ---
-title: "project_1"
+title: "Analysis of QB Salary Article"
+image: LinkedIn_Photo.png
 format: html
 ---
+
+## Description:
 

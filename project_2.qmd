@@ -1,5 +1,7 @@
 ---
-title: "project_2"
+title: "Physics of a Football Calculator"
+image: LinkedIn_Photo.png
 format: html
 ---
 
+## Description:

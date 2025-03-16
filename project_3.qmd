@@ -1,5 +1,7 @@
 ---
-title: "project_3"
+title: "Cerebral Injuries in Football Paper"
+image: LinkedIn_Photo.png
 format: html
 ---
 
+## Description:

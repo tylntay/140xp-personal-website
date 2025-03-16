@@ -4,19 +4,21 @@ about:
   template: solana
   image: LinkedIn_Photo.png
   links:
-    - text: Resume
-      href: Tyler Taylor - Winter 2025 Resume Edited.docx (2).pdf
-    - text: Email
-      url: "mailto:tylntay@gmail.com"
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/tyler-n-taylor/
     - icon: github
       text: Github
       href: https://github.com/tylntay
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/tylrtaylr/
+    - text: Email
+      url: "mailto:tylntay@gmail.com"
 ---
 
 UCLA Football Student Manager & Data Analyst | Passionate About Leveraging Machine Learning to Optimize Sports Strategy & Performance
+
+### Download [My Resume](/Tyler Taylor - Winter 2025 Resume Edited.docx (2).pdf)
 
 ## Education
 

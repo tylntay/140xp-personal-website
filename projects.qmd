@@ -5,6 +5,8 @@ listing:
   contents:
     - "projects/*.qmd"
   fields:
+    - title
+    - description
     - image
 ---
 

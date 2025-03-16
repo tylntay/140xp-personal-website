@@ -1,10 +1,10 @@
 ---
 title: "Analysis of QB Salary Article"
-image: LinkedIn_Photo.png
+image: png2pdf.pdf
 format: html
 ---
 
-## <a href="https://www.bruinsportsanalytics.com/post/big-money">Project</a>:
+## <a href="https://www.bruinsportsanalytics.com/post/big-money">Project</a>
 
 - Engaged with a small team of 4 to extract, clean, & analyze QB statistical data using R to produce a linear model predicting QB’s future salaries based on a computed statistical player value metric
 

@@ -4,7 +4,7 @@ image: LinkedIn_Photo.png
 format: html
 ---
 
-## Description:
+## <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRsoT1stScQGsM7cOjpLIhTsj112Pmw4Z07N1H9301dRbczgx6CrUPitnSiFQe8VTM9SDL-xSJJsJ_s/pub">Project</a>
 
 - Developed a rudimentary C++ prediction program using user inputted data to calculate kinematic values (distance, velocity, airtime, etc.) of a thrown football under ideal conditions
 

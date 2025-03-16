@@ -21,10 +21,52 @@
     "text": "Experience\nUCLA Football Athletic Performance | Project Manager and Lead Student Data Analyst | August 2024 - Present\nUCLA Football | Student Equipment Manager | March 2024 - Present"
   },
   {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Cerebral Injuries in Football Paper",
+    "section": "",
+    "text": "Investigated existing literature on biological impacts of cerebral injuries in football & how advancements in technology assist with medical diagnosis & treatment\nSummarized research in style of a formal 12 page APA review paper"
+  },
+  {
+    "objectID": "projects/project_3.html#description",
+    "href": "projects/project_3.html#description",
+    "title": "Cerebral Injuries in Football Paper",
+    "section": "",
+    "text": "Investigated existing literature on biological impacts of cerebral injuries in football & how advancements in technology assist with medical diagnosis & treatment\nSummarized research in style of a formal 12 page APA review paper"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Analysis of QB Salary Article",
+    "section": "",
+    "text": "Engaged with a small team of 4 to extract, clean, & analyze QB statistical data using R to produce a linear model predicting QB’s future salaries based on a computed statistical player value metric\nCollected findings in a published article; independently responsible for examining validity of model by checking model assumptions & assessing model diagnostics"
+  },
+  {
+    "objectID": "projects/project_1.html#project",
+    "href": "projects/project_1.html#project",
+    "title": "Analysis of QB Salary Article",
+    "section": "",
+    "text": "Engaged with a small team of 4 to extract, clean, & analyze QB statistical data using R to produce a linear model predicting QB’s future salaries based on a computed statistical player value metric\nCollected findings in a published article; independently responsible for examining validity of model by checking model assumptions & assessing model diagnostics"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Physics of a Football Calculator",
+    "section": "",
+    "text": "Developed a rudimentary C++ prediction program using user inputted data to calculate kinematic values (distance, velocity, airtime, etc.) of a thrown football under ideal conditions\nConducted an experiment to evaluate accuracy of program & compiled findings into a condensed lab report\nResearched & briefly summarized articles exploring physics behind a football’s flight path & use of modern technology in sports data analysis"
+  },
+  {
+    "objectID": "projects/project_2.html#description",
+    "href": "projects/project_2.html#description",
+    "title": "Physics of a Football Calculator",
+    "section": "",
+    "text": "Developed a rudimentary C++ prediction program using user inputted data to calculate kinematic values (distance, velocity, airtime, etc.) of a thrown football under ideal conditions\nConducted an experiment to evaluate accuracy of program & compiled findings into a condensed lab report\nResearched & briefly summarized articles exploring physics behind a football’s flight path & use of modern technology in sports data analysis"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analysis of QB Salary Article\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of QB Salary Article\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of QB Salary Article\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analysis of QB Salary Article\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCerebral Injuries in Football Paper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics of a Football Calculator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

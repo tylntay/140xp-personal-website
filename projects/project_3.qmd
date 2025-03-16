@@ -1,8 +1,10 @@
 ---
-title: "Analysis of QB Salary Article"
+title: "Cerebral Injuries in Football Paper"
 image: LinkedIn_Photo.png
-format: html
 ---
 
 ## Description:
 
+- Investigated existing literature on biological impacts of cerebral injuries in football & how advancements in technology assist with medical diagnosis & treatment
+
+- Summarized research in style of a formal 12 page APA review paper

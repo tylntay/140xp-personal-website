@@ -1,8 +1,13 @@
 ---
-title: "Analysis of QB Salary Article"
+title: "Physics of a Football Calculator"
 image: LinkedIn_Photo.png
 format: html
 ---
 
 ## Description:
 
+- Developed a rudimentary C++ prediction program using user inputted data to calculate kinematic values (distance, velocity, airtime, etc.) of a thrown football under ideal conditions
+
+- Conducted an experiment to evaluate accuracy of program & compiled findings into a condensed lab report
+
+- Researched & briefly summarized articles exploring physics behind a football’s flight path & use of modern technology in sports data analysis

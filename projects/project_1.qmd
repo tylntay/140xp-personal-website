@@ -4,5 +4,9 @@ image: LinkedIn_Photo.png
 format: html
 ---
 
-## Description:
+## <a href="https://www.bruinsportsanalytics.com/post/big-money">Project</a>:
+
+- Engaged with a small team of 4 to extract, clean, & analyze QB statistical data using R to produce a linear model predicting QB’s future salaries based on a computed statistical player value metric
+
+- Collected findings in a published article; independently responsible for examining validity of model by checking model assumptions & assessing model diagnostics
 

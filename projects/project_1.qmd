@@ -1,6 +1,6 @@
 ---
 title: "Analysis of QB Salary Article"
-image: png2pdf.pdf
+image: Project1_png.png
 format: html
 ---
 

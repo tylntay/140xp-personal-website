@@ -1,6 +1,6 @@
 ---
 title: "Physics of a Football Calculator"
-image: LinkedIn_Photo.png
+image: Project2_png.png
 format: html
 ---
 

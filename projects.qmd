@@ -4,5 +4,7 @@ listing:
   type: default
   contents:
     - "projects/*.qmd"
+  fields:
+    - image
 ---
 
